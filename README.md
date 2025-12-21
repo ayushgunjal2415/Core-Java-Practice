@@ -14,6 +14,8 @@ It is created to build a strong foundation in Java programming and improve logic
 - Organize code using proper packages
 - Extend this repository with DSA and backend projects
 
+- "Java learning in progress"
+
 
 ## Author
 **Ayush Gunjal**
