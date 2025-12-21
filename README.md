@@ -15,8 +15,6 @@ It is created to build a strong foundation in Java programming and improve logic
 - Extend this repository with DSA and backend projects
 
 - "Java learning in progress"
-- "Learning Java fundamentals"
-
 
 ## Author
 **Ayush Gunjal**
