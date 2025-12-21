@@ -15,7 +15,7 @@ It is created to build a strong foundation in Java programming and improve logic
 - Extend this repository with DSA and backend projects
 
 
-## Java learning and practice repository
+ "Java learning and practice repository"
 
 ## Author
  Ayush Gunjal
