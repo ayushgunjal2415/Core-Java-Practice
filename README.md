@@ -6,16 +6,7 @@ It is created to build a strong foundation in Java programming and improve logic
 ##  Purpose
 - Practice Java basics and core concepts
 - Strengthen problem-solving skills
-- Build a solid base before moving to advanced Java and backend development
-
-
-##  Future Scope
-- Add more Java programs as learning progresses
-- Organize code using proper packages
-- Extend this repository with DSA and backend projects
-
-
- "Java learning and practice repository"
+- Build a solid base before moving to DSA and Spring Boot
 
 ## Author
  Ayush Gunjal
