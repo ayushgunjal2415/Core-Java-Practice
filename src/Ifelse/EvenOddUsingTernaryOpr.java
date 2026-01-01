@@ -10,7 +10,7 @@ public class EvenOddUsingTernaryOpr {
         int num = sc.nextInt();
     
         String result = ( num % 2 == 0) ? "Even" : "Odd";
-        System.out.println("Even number is: " + result);
+        System.out.println("Number is: " + result);
         sc.close();
     }
 }
