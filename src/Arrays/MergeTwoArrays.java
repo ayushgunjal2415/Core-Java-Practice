@@ -1,8 +1,9 @@
 package Arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
-public class MergeTwoSortedArray {
+public class MergeTwoArrays {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to Merging Sorted array..\n");
@@ -30,6 +31,9 @@ public class MergeTwoSortedArray {
             arr2[j] = sc.nextInt();
             j++;
         }
+        //for sorting array
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
 
         int[] merged = merge(arr1, arr2);
 
