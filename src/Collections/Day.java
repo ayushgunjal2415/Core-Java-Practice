@@ -1,3 +1,4 @@
+package Collections;
 public enum Day {
     
     MONDAY(true), 
