@@ -1,3 +1,4 @@
+package Collections;
 public class ConcatenateStrings {
 
     // Method with varargs
