@@ -2,11 +2,11 @@ package Multithreading;
 
 import java.util.concurrent.*;
 
-class MyTask implements Callable<Integer> {
+class Square implements Callable<Integer> {
 
     private int number;
 
-    public MyTask(int number) {
+    public Square(int number) {
         this.number = number;
     }
 
@@ -25,9 +25,9 @@ public class SquareCalculator {
         ExecutorService service = Executors.newFixedThreadPool(1);
 
         // Creating multiple Callable tasks
-        Callable<Integer> task1 = new MyTask(2);
-        Callable<Integer> task2 = new MyTask(4);
-        Callable<Integer> task3 = new MyTask(6);
+        Callable<Integer> task1 = new Square(2);
+        Callable<Integer> task2 = new Square(4);
+        Callable<Integer> task3 = new Square(6);
 
         // Submit tasks
         Future<Integer> f1 = service.submit(task1);
